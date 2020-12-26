@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite Registration</string>
+    <string name="name">Name</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_registered_go_to">Already registered ? go to</string>
+    <string name="log_in">Log in</string>
+</resources>
